@@ -7,7 +7,8 @@ examples of captcha:
 
 ![ex1](https://github.com/A30Z/Captcha-Detector/assets/121484376/986ee666-5bc0-4ba0-8c3c-9ca38c5fc88d)
 ![ex2](https://github.com/A30Z/Captcha-Detector/assets/121484376/63a392b6-33a8-4b19-8607-bdef0897721b)
-![ex3](https://github.com/A30Z/Captcha-Detector/assets/121484376/452d6087-515f-4d91-8046-dd8fd87e5026)
+![ex3](https://github.com/A30Z/Captcha-Detector/assets/121484376/4fa4168a-5453-4ba8-8693-fba08be81cd1)
+
 
 we using some methods to removing noises(more details in notebook)
 
