@@ -1,4 +1,4 @@
-![d1](https://github.com/A30Z/Captcha-Detector/assets/121484376/ea5fe25f-a470-420b-9940-1dba151c41cf)![d3](https://github.com/A30Z/Captcha-Detector/assets/121484376/77d0aa12-a5bf-46cf-9c08-7b7f1f9d0e78)# Captcha-Detector
+# Captcha-Detector
 Detecting captcha number
 
 we want detecting number of these captcha pictures
